@@ -8,3 +8,5 @@ target/
 .project
 .settings
 .springBeans
+.gitignore
+.src/src/main/resources/application.properties
